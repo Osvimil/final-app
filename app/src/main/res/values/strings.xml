@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cursos Informáticos</string>
+    <string name="hello_world">Bonjour UPIICSA</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="app_names">BaseDeDatos1</string>
+    <string name="nombre"> Nombre(s):</string>
+    <string name="apellidos">Apellidos: </string>
+    <string name="datos">Registrar </string>
+    <string name="edad">Edad: </string>
+    <string name="ver_datos">Ver datos </string>
+    <string name="actualizar">Actualizar </string>
+    <string name="escuela">Escuela: </string>
+    <string name="borrar">Borrar</string>
+    <string name="action_actualizar">Actualizar</string>
+</resources>

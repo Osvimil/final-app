@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal|center_vertical"
+    tools:context="com.hotmail.oswaldosaldivar.datepickered.MainActivity">
+
+    <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/datepicker"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        >
+
+    </DatePicker>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/boton"
+        android:text="Fecha"
+        android:background="@color/md_lime_400"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Muestra hora de curso"
+        android:id="@+id/texto"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@color/md_lime_100"
+        android:layout_marginTop="15dp"
+        />
+</LinearLayout>
